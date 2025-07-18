@@ -1,0 +1,7 @@
+enforce_privacy: true
+enforce_dependencies: true
+dependencies:
+  - packs/users
+public_path: public/
+metadata:
+  owner: "@orders-team"
